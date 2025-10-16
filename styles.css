@@ -23,6 +23,7 @@ body {
   color: white;
   padding: 20px;
   transition: 0.3s;
+  z-index: 9999;
 }
 
 .sidebar-header {
